@@ -1,5 +1,11 @@
 # Awesome Free Deepseek
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Code License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/East196/awesome-free-deepseek/blob/main/LICENSE)
+
+![DeepSeek](deepseek-header.webp)
+
+[GitHub 持续更新，欢迎关注，欢迎 star ~](https://github.com/East196/awesome-free-deepseek)
+
 🆓免费的 DeepSeek 网站列表，持续更新。List of free DeepSeek sites, continuously updated.
 
 此处列出的网站均来源于互联网，请注意不要在这些网站上输入任何个人敏感信息。
@@ -17,6 +23,8 @@
 >    - 🧰不仅仅是 Chat，支持其他模型或其他功能
 >    - 🌎需要国际网络
 
+### 实测可用
+
 | 序号 | 网站                                       | 标签 | 添加时间 | 备注 |
 | ---- | ------------------------------------------ | ---- | -------- | ---- |
 | 1    | [DeepSeek👍👍👍](https://metaso.cn)            |   🆓   |     2025-02-08     | 官网，永远的神！|
@@ -26,6 +34,8 @@
 | 5    | [硅基流动](https://cloud.siliconflow.cn/i/c6dFMQLc) |   🔒🧰   |    2025-02-08      |   还是太全面了   |
 | 6   | [POE](https://poe.com/DeepSeek-R1)         |    🌎🔒🧰  |      2025-02-08    | 全面 |
 
+### 待测试
+1，国家超算平台：https://chat.scnet.cn/#/chat
 
 ## 🗨️ DeepSeek 替代方案
 ### 国内
