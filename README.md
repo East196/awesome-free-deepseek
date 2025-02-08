@@ -19,11 +19,12 @@
 
 | 序号 | 网站                                       | 标签 | 添加时间 | 备注 |
 | ---- | ------------------------------------------ | ---- | -------- | ---- |
-| 1    | [秘塔搜索👍](https://metaso.cn)            |   🆓   |     2025-02-08     |      |
-| 2    | [360纳米AI搜索👍](https://www.n.cn/)       |  🆓    |     2025-02-08     |      |
-| 3   | [Github](https://github.com/marketplace/models/azureml-deepseek/DeepSeek-R1/playground) |  🌎    |      2025-02-08    |  |
-| 4    | [硅基流动](https://cloud.siliconflow.cn/i/c6dFMQLc) |   🔒   |    2025-02-08      |      |
-| 5   | [POE](https://poe.com/DeepSeek-R1)         |    🌎🔒  |      2025-02-08    |  |
+| 1    | [DeepSeek👍👍👍](https://metaso.cn)            |   🆓   |     2025-02-08     | 官网，永远的神！|
+| 2    | [秘塔搜索👍](https://metaso.cn)            |   🆓   |     2025-02-08     |   好用！详细  |
+| 3    | [360纳米AI搜索👍](https://www.n.cn/)       |  🆓    |     2025-02-08     |   好用！简略   |
+| 4   | [Github](https://github.com/marketplace/models/azureml-deepseek/DeepSeek-R1/playground) |  🌎    |      2025-02-08    |  |
+| 5    | [硅基流动](https://cloud.siliconflow.cn/i/c6dFMQLc) |   🔒🧰   |    2025-02-08      |   还是太全面了   |
+| 6   | [POE](https://poe.com/DeepSeek-R1)         |    🌎🔒🧰  |      2025-02-08    | 全面 |
 
 
 ## 🗨️ DeepSeek 替代方案
