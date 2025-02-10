@@ -6,7 +6,8 @@
 
 [GitHub 持续更新，欢迎关注，欢迎 star ~](https://github.com/East196/awesome-free-deepseek)
 
-🆓免费的 DeepSeek 网站列表，持续更新。List of free DeepSeek sites, continuously updated.
+🆓免费的 DeepSeek 网站列表，持续更新。
+List of free DeepSeek sites, continuously updated.
 
 此处列出的网站均来源于互联网，请注意不要在这些网站上输入任何个人敏感信息。
 
@@ -19,21 +20,26 @@
 ## 免费的 DeepSeek 网站
 > 标签含义
 >    - 🆓完全免费，打开即用
+>    - 🔟次数限制免费
 >    - 🔒需要登陆
+>    - 💬直接对话
+>    - 🔑通过APIKey访问
 >    - 🧰不仅仅是 Chat，支持其他模型或其他功能
 >    - 🌎需要国际网络
+>    - 🏆赞助商
 
 ### 实测可用
 
 | 序号 | 网站                                       | 标签 | 添加时间 | 备注 |
 | ---- | ------------------------------------------ | ---- | -------- | ---- |
-| 1    | [DeepSeek👍👍👍](https://metaso.cn)            |   🆓   |     2025-02-08     | 官网，永远的神！|
-| 2    | [秘塔搜索👍](https://metaso.cn)            |   🆓   |     2025-02-08     |   好用！详细  |
-| 3    | [360纳米AI搜索👍](https://www.n.cn/)       |  🆓    |     2025-02-08     |   好用！简略   |
-| 4   | [Github](https://github.com/marketplace/models/azureml-deepseek/DeepSeek-R1/playground) |  🌎    |      2025-02-08    |  |
-| 5    | [硅基流动](https://cloud.siliconflow.cn/i/c6dFMQLc) |   🔒🧰   |    2025-02-08      |   还是太全面了   |
-| 6   | [POE](https://poe.com/DeepSeek-R1)         |    🌎🔒🧰  |      2025-02-08    | 全面 |
-
+| 1    | [DeepSeek👍👍👍](https://metaso.cn)            |   🔒🆓💬🔑   |     2025-02-08     | 官网，永远的神！|
+| 2    | [秘塔搜索👍](https://metaso.cn)            |   🆓💬   |     2025-02-08     |   好用！详细  |
+| 3    | [360纳米AI搜索👍](https://www.n.cn/)       |  🆓💬    |     2025-02-08     |   好用！简略   |
+| 4   | [火山方舟](https://console.volcengine.com/ark/region:ark+cn-beijing/model?feature=&search=Deepseek&vendor=Bytedance&view=LIST_VIEW) |  🔒💬🔑🔟    |      2025-02-10    | 每个模型赠送50wTokens🔥 |
+| 5   | [Gitee](https://ai.gitee.com/models) |  🔒💬🔑🔟    |      2025-02-10    | 每日免费调用次数 100 |
+| 6    | [硅基流动](https://cloud.siliconflow.cn/i/c6dFMQLc) |   🔒💬🔑🧰   |    2025-02-08      |   赠送2000wTokens🔥   |
+| 7   | [POE](https://poe.com/DeepSeek-R1)         |    🌎🔒💬🔑🧰  |      2025-02-08    | 全面 |
+| 8   | [Github](https://github.com/marketplace/models/azureml-deepseek/DeepSeek-R1/playground) |  🌎    |      2025-02-08    | 上下文限制 |
 ### 待测试
 1，国家超算平台：https://chat.scnet.cn/#/chat
 
