@@ -42,6 +42,7 @@ List of free DeepSeek sites, continuously updated.
 | 8   | [Github](https://github.com/marketplace/models/azureml-deepseek/DeepSeek-R1/playground) |  🌎    |      2025-02-08    | 上下文限制 |
 ### 待测试
 1，国家超算平台：https://chat.scnet.cn/#/chat
+2，[超级羊毛，671B满血DeepSeek-V3/R1无限免费调用，快薅！](https://mp.weixin.qq.com/s/v-47BO8XZaNLXlAt7t6SWA ) 免费到2.25
 
 ## 🗨️ DeepSeek 替代方案
 ### 国内
